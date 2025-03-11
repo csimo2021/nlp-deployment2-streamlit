@@ -17,5 +17,4 @@ protobuf
 jinja2
 pydantic
 torch
-torchvision
-torchaudio
+
