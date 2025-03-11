@@ -17,4 +17,4 @@ protobuf
 jinja2
 pydantic
 torch
-
+boto3
